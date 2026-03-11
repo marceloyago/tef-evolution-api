@@ -1,0 +1,9 @@
+{
+  "name": "tef-evolution-api",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node dist/main.js",
+    "build": "echo 'no build needed'"
+  },
+  "engines": { "node": "20" }
+}
